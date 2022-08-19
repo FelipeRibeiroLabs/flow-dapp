@@ -9,9 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@onflow/fcl": "^1.2.0",
+    "@onflow/sdk": "^1.1.1",
+    "@onflow/types": "^1.0.3",
+    "elliptic": "^6.5.4",
     "next": "12.2.5",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "sha3": "^2.1.4"
   },
   "devDependencies": {
     "eslint": "8.22.0",
